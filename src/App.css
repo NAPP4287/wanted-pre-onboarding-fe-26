@@ -16,3 +16,7 @@
     animation: logo-spin infinite 20s linear;
   }
 }
+
+#root {
+  @apply w-full p-[20px] max-w-[1080px] mx-auto;
+}
